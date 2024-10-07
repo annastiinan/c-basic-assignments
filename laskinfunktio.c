@@ -1,11 +1,4 @@
-/* Tee laskinohjelma, joka laskee kahden kokonaisluvun summan, erotuksen tai tulon.
- Ohjelma kysyy ensin, mikä laskutoimitus suoritetaan (1 = summa, 2 = erotus, 3 = tulo).
-Laskutoimituksen jälkeen vastaus tulostetaan monitorille ja ohjelmaa palaa kysymään
-seuraavaa laskutoimitusta.*/
 
-/*Laadi jokaista laskutoimitusta varten oma funktio, joka kysyy luvut,
-suorittaa halutun laskutoimituksen ja tulostaa vastauksen monitorille.
-Ohjelma lopetetaan syöttämällä negatiivinen luku, kuten edellisessä harjoituksessa*/
 
 #include <stdio.h>
 
