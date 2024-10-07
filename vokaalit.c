@@ -1,14 +1,4 @@
-/*Tee ohjelma, joka kysyy käyttäjältä jonkin sanan (max. 15 pientä kirjainta)
-ja laskee sanassa esiintyvien vokaalien (a, e, i, o, u, y) määrän. 
-Vihje:
-Olet aikaisemmin oppinut vertaamaan,
- onko jonkin merkkimuuttujan arvo vaikkapa "a". 
- Merkkijonotaulukon yksittäisiin kirjaimiin voit viitata indeksin avulla. 
- (char[] = "sana"; sana[1] == 'a';)*/
 
- /*Ohjelma laskee vokaalien määriä.
-Anna sana:testi
-Sanassa vokaaleja: 2*/
 
 #include <stdio.h>
 int main(void)
