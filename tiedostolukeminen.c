@@ -1,12 +1,4 @@
-/*Tiedostossa "luvut.s" on 4 kokonaislukua.
-Luvut ovat tiedoston ensimmäisellä rivillä välilyönnein eroteltuna.
-Tee ohjelma, joka lukee tiedostosta kokonaisluvut ja laskee näiden summan.
-Lopuksi ohjelma tulostaa sekä luvut että summan näytölle.*/
 
-/*Tiedostosta luvut.s löytyneet luvut:
-445, 26, 45 ja 43
-
-Lukujen summa: 559*/
 
 #include <stdio.h>
 int main ()
