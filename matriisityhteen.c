@@ -1,9 +1,3 @@
-/*Kopioi alustus ohjelmaan, joka tulostaa taulukon näytölle, sekä laskee taulukon alkioiden summan.
-Kunkin rivin perään tulostetaan rivinvaihtomerkki.*/
-
-/*Ohjelman toteuttaminen onnistuu hyödyntämällä sisäkkäisiä for-lauseita.
-If-lauseella voit tarkistaa, tarvitaanko rivinvaihtomerkkiä.
-Matriisin riveillä luvut tulee erottaa toisistaan yhdellä välilyönnillä.*/
 
 
 #include <stdio.h>
